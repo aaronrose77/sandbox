@@ -1,0 +1,21 @@
+{
+  "name": "sandbox.aaronrose.biz",
+  "description": "This is a sandbox of different projects in order to try out new tools and technologies.",
+  "main": "index.js",
+  "authors": [
+    "Aaron Rose <aaronrose77@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/aaronrose77/sandbox.aaronrose.biz",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "foundation-demo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Aaron Rose <aaronrose77@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/aaronrose77/sandbox.aaronrose.biz",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
